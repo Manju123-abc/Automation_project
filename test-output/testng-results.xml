@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-24T19:17:20 IST" name="Default suite" finished-at="2024-10-24T19:18:08 IST" duration-ms="48728">
+    <groups>
+    </groups>
+    <test started-at="2024-10-24T19:17:20 IST" name="Default test" finished-at="2024-10-24T19:18:08 IST" duration-ms="48728">
+      <class name="pkg.Project_Auto">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pkg.Project_Auto@6743e411]" started-at="2024-10-24T19:17:20 IST" name="setup" finished-at="2024-10-24T19:17:24 IST" duration-ms="4467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="urlload()[pri:0, instance:pkg.Project_Auto@6743e411]" started-at="2024-10-24T19:17:24 IST" name="urlload" finished-at="2024-10-24T19:17:27 IST" duration-ms="3294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlload -->
+        <test-method signature="test1()[pri:0, instance:pkg.Project_Auto@6743e411]" started-at="2024-10-24T19:17:27 IST" name="test1" finished-at="2024-10-24T19:17:38 IST" duration-ms="10405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="urlload()[pri:0, instance:pkg.Project_Auto@6743e411]" started-at="2024-10-24T19:17:38 IST" name="urlload" finished-at="2024-10-24T19:17:39 IST" duration-ms="1119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlload -->
+        <test-method signature="test2()[pri:0, instance:pkg.Project_Auto@6743e411]" started-at="2024-10-24T19:17:39 IST" name="test2" finished-at="2024-10-24T19:18:08 IST" duration-ms="29364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- pkg.Project_Auto -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
